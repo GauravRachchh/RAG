@@ -1,5 +1,5 @@
 # RAG
-AI Powered HR Assistance to using Chroma DB, Gradio and LLMs (Open AI, Gemini)
+AI Powered HR Assistance using Chroma DB, Gradio and LLMs (Open AI, Gemini)
 
 Crafting an AI-Powered HR Assistant: A Use Case for Nestle’s HR Policy Documents
 
