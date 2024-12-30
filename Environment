@@ -1,0 +1,30 @@
+Setting up the programming environment
+•	Install Python
+•	Get OpenAI API key
+•	Install Langchain package
+•	Install ChromaDB
+•	Install Langchain OpenAI package
+ 
+Processing text documents
+•	Download and store nestle_hr_policy.pdf PDF file on local storage.
+•	Process and load PDF file using pyPDFLoader
+•	Join text from all pages
+Creating text vector representations 
+•	Split the file using recursive text splitter. 
+•	Convert the text into vectors using OpenAI embedding,
+•	Persist the vector data into Chroma DB
+
+Building a question-answering system
+•	Build the QA system using langchain RetrievalQAChain and Open AI chat model
+•	Develop UI using Gradio
+
+
+Prompts
+Prompt 1:
+ 
+
+Prompt 2:
+ 
+
+
+
