@@ -37,10 +37,10 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 
 ## Output
 
-Prompts
+### Prompts
 
-### Prompt 1:
+##### Prompt 1:
 ![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt1_ChatBot.jpg?raw=true)
 
-### Prompt 2:
+##### Prompt 2:
 ![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt2_ChatBot.JPG?raw=true)
