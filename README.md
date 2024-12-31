@@ -22,6 +22,8 @@ Upon completing this project, you will create an IPYNB file demonstrating your a
 - Install Langchain package
 - Install ChromaDB
 - Install Langchain OpenAI package
+  ![alt text](https://github.com/GauravRachchh/RAG/blob/main/env.jpg?raw=true)
+
 
 ### Processing text documents
 -	Download and store nestle_hr_policy.pdf PDF file on local storage.
@@ -38,11 +40,14 @@ Upon completing this project, you will create an IPYNB file demonstrating your a
 - Develop UI using Gradio
 
 ## Output
-Prompts
-Prompt 1:
- 
 
-Prompt 2:
+Prompts
+
+### Prompt 1:
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt1_ChatBot.jpg?raw=true)
+
+### Prompt 2:
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt2_ChatBot.JPG?raw=true)
  
 
 
