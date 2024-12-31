@@ -1,4 +1,4 @@
-# AI-Driven HR Assistance with Chroma DB, Gradio, and OpenAI/Gemini APIs
+# AI-Powered HR Assistance with Chroma DB, Gradio, and OpenAI/Gemini APIs
 Crafting an AI-Powered HR Assistant: A Use Case for Nestle’s HR Policy Documents
 
 ## Overview 
