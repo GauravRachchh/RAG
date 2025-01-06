@@ -20,8 +20,7 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 - Install Langchain OpenAI package
 - Get Gemini API key
 - Install Langchain Gemini package
-
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/env.jpg?raw=true)
+You can check the packages.txt file in this repository for the list of required packages and their versions.
 
 ### Processing text documents
 -	Download and store nestle_hr_policy.pdf PDF file on local storage.
