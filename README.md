@@ -40,7 +40,6 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 ### Prompts
 
 ##### Prompt 1:
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt1_ChatBot.jpg?raw=true)
-
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt1_openAI_chatbot.jpg?raw=true)
 ##### Prompt 2:
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/Prompt2_ChatBot.JPG?raw=true)
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt2_openAI_chatbot.jpg?raw=true)
