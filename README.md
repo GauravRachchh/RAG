@@ -14,12 +14,14 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 ## Action
 ### Setting up the programming environment 
 -	Install Python
-- Get OpenAI API key
-- Install Langchain package
+-	Install Langchain package
 - Install ChromaDB
-- Install Langchain OpenAI package 
+- Get OpenAI API key
+- Install Langchain OpenAI package
+- Get Gemini API key
+- Install Langchain Gemini package
 
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/Env.jpg?raw=true)
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/env.jpg?raw=true)
 
 ### Processing text documents
 -	Download and store nestle_hr_policy.pdf PDF file on local storage.
@@ -37,7 +39,14 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 
 ## Output
 
-### Prompts
+### With OpenAI 
+
+##### Prompt 1:
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt1_openAI_chatbot.jpg?raw=true)
+##### Prompt 2:
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt2_openAI_chatbot.jpg?raw=true)
+
+### With Gemini
 
 ##### Prompt 1:
 ![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt1_openAI_chatbot.jpg?raw=true)
