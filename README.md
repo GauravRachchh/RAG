@@ -49,6 +49,6 @@ Your task is to develop a conversational chatbot. This chatbot must answer queri
 ### With Gemini
 
 ##### Prompt 1:
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt1_openAI_chatbot.jpg?raw=true)
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt1_gemini_chatbot.jpg?raw=true)
 ##### Prompt 2:
-![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt2_openAI_chatbot.jpg?raw=true)
+![alt text](https://github.com/GauravRachchh/RAG/blob/main/img/prompt2_gemini_chatbot.jpg?raw=true)
